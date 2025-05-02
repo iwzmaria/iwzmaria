@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou a @iwzmaria
+### 👋 Olá, eu sou a Maria
 
 - 👀 Me interesso por desenvolvimento de sistemas, programação e tecnologia em geral.
 - 🌱 Atualmente estou estudando desenvolvimento de sistemas.
