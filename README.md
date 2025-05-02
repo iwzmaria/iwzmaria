@@ -1,10 +1,9 @@
 ### 👋 Olá, eu sou a @iwzmaria
 
 - 👀 Me interesso por desenvolvimento de sistemas, programação e tecnologia em geral.
-- 🌱 Atualmente estou estudando desenvolvimento de sistemas e aprendendo linguagens como **[ex: Java, JavaScript, Python]**.
+- 🌱 Atualmente estou estudando desenvolvimento de sistemas.
 - 💞️ Estou aberta a colaborar em projetos de código aberto, sites, aplicações web e qualquer iniciativa que me ajude a aprender mais!
-- 📫 Como me encontrar: **[adicione aqui seu e-mail, LinkedIn, ou outra rede de contato]**
-- 😄 Pronomes: **ela/dela**
+- 📫 Como me encontrar: claraalcantara233@gmail.com
 - ⚡ Curiosidade: Amo desafios de programação e estou sempre buscando melhorar minhas habilidades!
 
 <!---
